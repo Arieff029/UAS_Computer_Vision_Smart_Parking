@@ -16,3 +16,5 @@ Pastikan komputer Anda sudah terinstal Python. Jalankan perintah berikut di Comm
 
 ```bash
 pip install ultralytics opencv-python
+```
+![Hasil Deteksi](hasil_parking.png)
